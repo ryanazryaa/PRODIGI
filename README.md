@@ -1,5 +1,5 @@
 # 📚 PRODIGI
-> Documenting my data science journey as a Prodigi talent.
+> Documenting my preparation for GEMASTIK and Satria Data as a Prodigi talent.
 
 ---
 
